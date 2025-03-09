@@ -1,3 +1,8 @@
 # Ameneyro Research and Software
 
-My name is Bernardo Ameneyro, I'm a Mathematics PhD student and my research focuses on Data Analysis, Machine Learning and Quantum Computing. This is an organization I set up to play around with GitHub's features.
+- 👋 Hi, I'm Bernardo Ameneyro, a mathematics PhD student at UTK.
+- 👀 My research focuses mostly in Data Analysis, Machine Learning and Quantum Computing with applications to biology. I also love videogames and tinkering with Linux.
+- 🌱 I use Python and LaTeX a lot for research purposes, and I'm also somewhat familiar with haskell, lisp and shell scripting (for Linux configs).
+- 💞️ I’m looking to collaborate on Data Analysis, Machine Learning and Quantum Computing projects.
+- 📫 How to reach me: bameneyr@vols.utk.edu
+- This is an organization I set up to play around with GitHub's features.
